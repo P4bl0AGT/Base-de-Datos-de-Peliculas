@@ -1,5 +1,3 @@
-# Base-de-Datos-de-Peliculas
-
 ## Descripción del Programa
 Este programa permite a los usuarios cargar datos de películas desde un archivo y de esta manera poder organizarlas y buscarlas según un código identificador, director, década de estreno , género/s de la película, rango de calificaciones, y finalmente una búsqueda que permite filtrar por década y género al mismo tiempo.
 
